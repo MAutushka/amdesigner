@@ -1,7 +1,6 @@
 /*
-Template Name: candy
-Template URI: http://demo.agnidesigns.com/Candy-HTML/index.html
-Author: AgniHD
+Template Name: autushkaM
+Author: Autushka MIkalai
 Version: 1.1
 
 ----------------------------------------------------------------------
@@ -382,10 +381,10 @@ ul.nav-menu-content li:hover > ul,
 	display:table-cell;
 	vertical-align:middle;
 	padding-left:15px;
-	cursor:url(../img/candy_cur.cur), pointer;
+	cursor:url(../img/autushkaM_cur.cur), pointer;
 }
 .toggle-nav-menu a:hover{
-	cursor:url(../img/candy_cur.cur), auto;
+	cursor:url(../img/autushkaM_cur.cur), auto;
 }
 .toggle-nav-menu i{
 	display:block;
@@ -1864,7 +1863,7 @@ section i{
 }
 
 .portfolio-thumbnail{
-	cursor:url(../img/candy_cur.cur), auto;
+	cursor:url(../img/autushkaM_cur.cur), auto;
 }
 .portfolio-guttered .portfolio-thumbnail{
 	margin-bottom:60px;
@@ -1903,6 +1902,11 @@ section i{
 .portfolio-thumbnail-caption .portfolio-category{
 	margin-right:-5px;
 }
+.portfolio-thumbnail-caption .portfolio-category img{
+	width:30%;
+	box-shadow: 0px 2px 10px 1px #398baa;
+}
+
 .portfolio-thumbnail-caption .portfolio-category li{
 	color:#d5d5d5;
 }
@@ -2842,7 +2846,7 @@ ul.page-numbers{
 	left:0;
 	bottom:0;
 	right:0;
-	cursor:url(../img/candy_cur.cur), auto;
+	cursor:url(../img/cautushkaM_cur.cur), auto;
 	background-color:#fff;
 	z-index:999;
 }
