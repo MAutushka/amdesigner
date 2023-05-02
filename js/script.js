@@ -623,7 +623,7 @@
 			var get_lng = '27.694768';
 			var get_add1 ='AMdesigner.by';
 			var get_add2 ='3 Programmistov St., Minsk, Belarus';
-			var get_add3 ='tel. +375 29 751 55 65';
+			var get_add3 ='tel. +48 515 136 453';
 			var get_add4 ='AMdesigner.by@gmail.com';
 						
 			var lat=get_lat;   // Latitude of location
