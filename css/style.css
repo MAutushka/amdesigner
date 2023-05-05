@@ -2006,8 +2006,8 @@ a::-moz-focus-inner {
 	border-color:#d5d5d5;
 }
 .clients .client{
-	line-height:40px;
-	padding:60px;
+	line-height:170px;
+	/*padding:60px;*/
 	border-top:1px solid;
 	border-left:1px solid;
 	border-color:#d5d5d5;
