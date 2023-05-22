@@ -619,15 +619,15 @@
 			// google map
 			var mapstyle = $("#map_canvas").attr("data-map-style");
 			
-			var get_lat = '53.927052';
-			var get_lng = '27.694768';
+			var get_lat = '50.07194355328554';
+			var get_lng = '19.950775880343173';
 			var get_add1 ='AMdesigner.by';
-			var get_add2 ='3 Programmistov St., Minsk, Belarus';
-			var get_add3 ='tel. +375 29 751 55 65';
+			var get_add2 ='Rakowicka St., Krakow, Poland';
+			var get_add3 ='tel. +48 515 136 453';
 			var get_add4 ='AMdesigner.by@gmail.com';
 						
 			var lat=get_lat;   // Latitude of location
-			var lang=get_lng;  // Longitude  of location
+			var lang=get_lng;  // Longitude of location
 			var desc='<div>'+
 						  '<h6>'+get_add1+'</h6>'+
 						  '<p>'+get_add2+'</p>'+
