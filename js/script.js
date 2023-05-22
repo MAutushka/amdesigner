@@ -621,7 +621,7 @@
 			
 			var get_lat = '50.07194355328554';
 			var get_lng = '19.950775880343173';
-			var get_add1 ='AMdesigner.by';
+			var get_add1 ='AMdesigner';
 			var get_add2 ='Rakowicka St., Krakow, Poland';
 			var get_add3 ='tel. +48 515 136 453';
 			var get_add4 ='AMdesigner.by@gmail.com';
