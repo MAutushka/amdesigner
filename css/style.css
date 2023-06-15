@@ -371,19 +371,19 @@ ul.nav-menu-content li:hover > ul,
 	line-height:0;
 }
 
-.toggle-nav-menu{
+.toggle-nav-menu {
 	display:none;
 	float: right;
 	color:#000;
 	padding: 10px 0px;
 }
-.toggle-nav-menu >div{
+.toggle-nav-menu div {
 	display:table-cell;
 	vertical-align:middle;
 	padding-left:15px;
 	cursor:url(../img/autushaM_cur.cur), pointer;
 }
-.toggle-nav-menu a:hover{
+.toggle-nav-menu a:hover {
 	cursor:url(../img/autushkaM_cur.cur), auto;
 }
 .toggle-nav-menu i{
