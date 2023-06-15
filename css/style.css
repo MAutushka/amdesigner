@@ -381,10 +381,10 @@ ul.nav-menu-content li:hover > ul,
 	display:table-cell;
 	vertical-align:middle;
 	padding-left:15px;
-	cursor:url(../img/candy_cur.cur), pointer;
+	cursor:url(../img/autushaM_cur.cur), pointer;
 }
 .toggle-nav-menu a:hover{
-	cursor:url(../img/candy_cur.cur), auto;
+	cursor:url(../img/autushkaM_cur.cur), auto;
 }
 .toggle-nav-menu i{
 	display:block;
@@ -2849,7 +2849,7 @@ ul.page-numbers{
 	left:0;
 	bottom:0;
 	right:0;
-	cursor:url(../img/cautushkaM_cur.cur), auto;
+	cursor:url(../img/autushkaM_cur.cur), auto;
 	background-color:#fff;
 	z-index:999;
 }
