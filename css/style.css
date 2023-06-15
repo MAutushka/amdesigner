@@ -377,7 +377,7 @@ ul.nav-menu-content li:hover > ul,
 	color:#000;
 	padding: 10px 0px;
 }
-.toggle-nav-menu div {
+.toggle-nav-menu >div {
 	display:table-cell;
 	vertical-align:middle;
 	padding-left:15px;
