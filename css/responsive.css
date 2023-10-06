@@ -64,7 +64,6 @@
 	.agni-slides .slide-content p {
 		font-size: 36px;
 		line-height: 1.7857;
-		color: #eee;
 	}
 	.agni-video .slide-content .big-heading {
 		font-size: 36px;
@@ -108,10 +107,7 @@
 		width: 20%;
 		text-align: center;
 	}
-	.slide-image {
-		left: 260px;
-   		position: absolute;
-	}
+	
 
 @media (max-width: 767px) {	
 	
@@ -166,6 +162,8 @@
 	}
 	.agni-slides .slide-content p {
 		font-size: 24px;
+	}
+	.agni-slides .slide-content .text-slide-title {
 		color: #eee;
 	}
 	.agni-video .slide-content .big-heading {
