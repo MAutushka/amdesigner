@@ -166,6 +166,9 @@
 	.agni-slides .slide-content .text-slide-title {
 		color: #eee;
 	}
+	.agni-slides .slide-content .text-slide-additional-title {
+		color: #eee;
+	}
 	.agni-video .slide-content .big-heading {
 		font-size: 24px;
 	}
